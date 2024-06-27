@@ -1,0 +1,10 @@
+tGravityAcc-max()-X
+tBodyAcc-max()-X
+tGravityAcc-mean()-Y
+fBodyAcc-mad()-X
+tGravityAcc-arCoeff()-Y,1
+tGravityAcc-max()-Y
+angle(Y,gravityMean)
+fBodyAcc-bandsEnergy()-1,16
+tBodyAcc-std()-X
+fBodyAcc-energy()-X
