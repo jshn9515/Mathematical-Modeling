@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1105.92pt" height="552.24pt" viewBox="0 0 1105.92 552.24" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="https://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-05-18T11:47:15.573961</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 552.24 
+L 1105.92 552.24 
+L 1105.92 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 138.24 491.4936 
+L 823.9104 491.4936 
+L 823.9104 66.2688 
+L 138.24 66.2688 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="QuadMesh_1">
+    <path d="M 138.24 66.2688 
+L 309.6576 66.2688 
+L 309.6576 172.575 
+L 138.24 172.575 
+L 138.24 66.2688 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #b40426; stroke: #ffffff"/>
+    <path d="M 309.6576 66.2688 
+L 481.0752 66.2688 
+L 481.0752 172.575 
+L 309.6576 172.575 
+L 309.6576 66.2688 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #6788ee; stroke: #ffffff"/>
+    <path d="M 481.0752 66.2688 
+L 652.4928 66.2688 
+L 652.4928 172.575 
+L 481.0752 172.575 
+L 481.0752 66.2688 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #5673e0; stroke: #ffffff"/>
+    <path d="M 652.4928 66.2688 
+L 823.9104 66.2688 
+L 823.9104 172.575 
+L 652.4928 172.575 
+L 652.4928 66.2688 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #cfdaea; stroke: #ffffff"/>
+    <path d="M 138.24 172.575 
+L 309.6576 172.575 
+L 309.6576 278.8812 
+L 138.24 278.8812 
+L 138.24 172.575 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #6788ee; stroke: #ffffff"/>
+    <path d="M 309.6576 172.575 
+L 481.0752 172.575 
+L 481.0752 278.8812 
+L 309.6576 278.8812 
+L 309.6576 172.575 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #b40426; stroke: #ffffff"/>
+    <path d="M 481.0752 172.575 
+L 652.4928 172.575 
+L 652.4928 278.8812 
+L 481.0752 278.8812 
+L 481.0752 172.575 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #bd1f2d; stroke: #ffffff"/>
+    <path d="M 652.4928 172.575 
+L 823.9104 172.575 
+L 823.9104 278.8812 
+L 652.4928 278.8812 
+L 652.4928 172.575 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #4f69d9; stroke: #ffffff"/>
+    <path d="M 138.24 278.8812 
+L 309.6576 278.8812 
+L 309.6576 385.1874 
+L 138.24 385.1874 
+L 138.24 278.8812 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #5673e0; stroke: #ffffff"/>
+    <path d="M 309.6576 278.8812 
+L 481.0752 278.8812 
+L 481.0752 385.1874 
+L 309.6576 385.1874 
+L 309.6576 278.8812 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #bd1f2d; stroke: #ffffff"/>
+    <path d="M 481.0752 278.8812 
+L 652.4928 278.8812 
+L 652.4928 385.1874 
+L 481.0752 385.1874 
+L 481.0752 278.8812 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #b40426; stroke: #ffffff"/>
+    <path d="M 652.4928 278.8812 
+L 823.9104 278.8812 
+L 823.9104 385.1874 
+L 652.4928 385.1874 
+L 652.4928 278.8812 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #3b4cc0; stroke: #ffffff"/>
+    <path d="M 138.24 385.1874 
+L 309.6576 385.1874 
+L 309.6576 491.4936 
+L 138.24 491.4936 
+L 138.24 385.1874 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #cfdaea; stroke: #ffffff"/>
+    <path d="M 309.6576 385.1874 
+L 481.0752 385.1874 
+L 481.0752 491.4936 
+L 309.6576 491.4936 
+L 309.6576 385.1874 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #4f69d9; stroke: #ffffff"/>
+    <path d="M 481.0752 385.1874 
+L 652.4928 385.1874 
+L 652.4928 491.4936 
+L 481.0752 491.4936 
+L 481.0752 385.1874 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #3b4cc0; stroke: #ffffff"/>
+    <path d="M 652.4928 385.1874 
+L 823.9104 385.1874 
+L 823.9104 491.4936 
+L 652.4928 491.4936 
+L 652.4928 385.1874 
+" clip-path="url(#p53bd3c9b3b)" style="fill: #b40426; stroke: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="md0646ff9a9" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#md0646ff9a9" x="223.9488" y="491.4936" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 稻谷产量 -->
+      <g transform="translate(193.9488 508.946725) scale(0.15 -0.15)">
+       <defs>
+        <path id="DengXian-7a3b" d="M 2656 4475 
+Q 2825 4469 3069 4469 
+Q 4575 4469 5581 4897 
+L 5831 4500 
+Q 5856 4456 5856 4434 
+Q 5856 4422 5850 4416 
+Q 5834 4400 5803 4400 
+Q 5781 4400 5741 4409 
+Q 5691 4422 5622 4422 
+Q 5522 4422 5394 4397 
+Q 4403 4206 2900 4044 
+Q 2834 4269 2656 4475 
+z
+M 3150 1906 
+L 3150 1113 
+L 3494 1113 
+Q 3738 1113 4050 1153 
+L 4050 769 
+Q 3713 806 3506 806 
+L 3150 806 
+L 3150 -6 
+L 5453 -6 
+L 5453 813 
+L 5088 813 
+Q 4891 813 4525 781 
+L 4525 1159 
+Q 4903 1119 5106 1119 
+L 5453 1119 
+L 5453 1888 
+L 4909 1888 
+Q 4716 1888 4341 1850 
+L 4341 2247 
+Q 4716 2209 4922 2209 
+L 5350 2209 
+Q 5569 2209 5850 2247 
+Q 5813 1913 5813 1691 
+L 5813 -141 
+Q 5813 -353 5850 -744 
+L 5416 -744 
+Q 5447 -525 5453 -313 
+L 3144 -313 
+Q 3144 -538 3181 -863 
+L 2753 -863 
+Q 2791 -519 2791 -313 
+L 2791 1631 
+Q 2791 1831 2753 2181 
+Q 3419 2203 3872 2497 
+L 4091 2138 
+Q 4116 2100 4116 2075 
+Q 4116 2063 4109 2053 
+Q 4097 2041 4066 2041 
+Q 4050 2041 4013 2047 
+Q 3969 2056 3916 2056 
+Q 3850 2056 3775 2041 
+Q 3469 1972 3150 1906 
+z
+M 3103 3756 
+Q 3384 3250 3597 2734 
+L 3238 2559 
+Q 3097 3047 2772 3603 
+L 3103 3756 
+z
+M 4569 2547 
+Q 5113 3231 5403 4091 
+L 5819 3866 
+Q 5894 3822 5887 3789 
+Q 5881 3756 5791 3725 
+Q 5663 3688 5581 3519 
+Q 5288 2956 4966 2394 
+Q 4775 2491 4569 2547 
+z
+M 1403 2759 
+L 1019 2759 
+Q 806 2766 447 2719 
+L 447 3116 
+Q 831 3078 1031 3078 
+L 1472 3078 
+L 1472 4091 
+Q 1050 4025 569 3969 
+Q 525 4178 347 4397 
+Q 553 4381 738 4381 
+Q 1606 4381 2316 4697 
+L 2516 4384 
+Q 2569 4300 2569 4259 
+Q 2569 4250 2566 4244 
+Q 2563 4225 2516 4225 
+Q 2481 4225 2444 4231 
+Q 2369 4241 2325 4241 
+Q 2259 4241 2194 4225 
+Q 2119 4206 1966 4172 
+Q 1881 4159 1831 4147 
+L 1831 3078 
+L 2053 3078 
+Q 2297 3078 2606 3116 
+L 2606 2719 
+Q 2278 2759 2059 2759 
+L 1831 2759 
+L 1831 2503 
+Q 2369 1959 2694 1575 
+L 2394 1241 
+Q 2228 1594 1831 2034 
+L 1831 -275 
+Q 1831 -513 1869 -897 
+L 1434 -897 
+Q 1478 -513 1472 -281 
+L 1472 1991 
+Q 1184 1325 691 519 
+Q 506 647 238 728 
+Q 1025 1569 1403 2759 
+z
+M 4050 4019 
+Q 4313 3463 4513 2938 
+L 4153 2778 
+Q 3994 3353 3719 3878 
+L 4050 4019 
+z
+" transform="scale(0.015625)"/>
+        <path id="DengXian-8c37" d="M 3163 3903 
+L 3578 3750 
+Q 3659 3719 3653 3700 
+Q 3653 3675 3559 3622 
+Q 3547 3616 3456 3534 
+Q 4219 2456 5403 1934 
+Q 5931 1722 6216 1684 
+Q 5959 1497 5831 1259 
+Q 4319 1825 3244 3238 
+Q 2234 1856 628 959 
+Q 469 1184 225 1344 
+Q 1966 1875 3163 3903 
+z
+M 2088 4813 
+L 2472 4525 
+Q 2516 4491 2516 4456 
+Q 2516 4450 2509 4434 
+Q 2484 4397 2400 4384 
+Q 2303 4378 2156 4213 
+Q 1581 3547 941 3041 
+Q 769 3206 550 3359 
+Q 1650 3988 2088 4813 
+z
+M 4978 -941 
+L 4544 -941 
+Q 4581 -781 4581 -447 
+L 2009 -447 
+Q 2009 -806 2047 -972 
+L 1625 -972 
+Q 1663 -781 1663 -434 
+L 1663 1125 
+Q 1663 1416 1625 1594 
+Q 1856 1556 2163 1556 
+L 4441 1556 
+Q 4769 1556 4978 1594 
+Q 4947 1388 4941 1119 
+L 4941 -453 
+Q 4947 -756 4978 -941 
+z
+M 2022 -141 
+L 4581 -141 
+L 4581 1234 
+L 2022 1234 
+L 2022 -141 
+z
+M 4184 4856 
+Q 4313 4763 4628 4531 
+Q 5394 3963 5772 3653 
+L 5466 3309 
+Q 4672 4072 3891 4531 
+L 4184 4856 
+z
+" transform="scale(0.015625)"/>
+        <path id="DengXian-4ea7" d="M 166 -738 
+Q 813 -269 1031 500 
+Q 1181 1009 1181 1756 
+Q 1181 2147 1141 2600 
+Q 1422 2566 1684 2559 
+L 2694 2559 
+Q 2425 3022 2053 3431 
+L 2322 3669 
+Q 2731 3244 3041 2803 
+L 2759 2559 
+L 3700 2559 
+Q 4178 3278 4313 3675 
+L 4744 3444 
+Q 4800 3413 4794 3366 
+Q 4781 3322 4722 3309 
+Q 4594 3297 4475 3097 
+Q 4288 2797 4122 2559 
+L 5319 2559 
+Q 5556 2566 5838 2600 
+L 5838 2203 
+Q 5544 2234 5319 2241 
+L 1569 2241 
+Q 1619 184 672 -947 
+Q 453 -806 166 -738 
+z
+M 1613 4025 
+L 3628 4025 
+Q 3328 4313 2809 4672 
+L 3047 4972 
+Q 3572 4628 3897 4353 
+L 3653 4025 
+L 5088 4025 
+Q 5363 4031 5613 4063 
+L 5613 3669 
+Q 5350 3700 5088 3706 
+L 1613 3706 
+Q 1369 3700 1094 3669 
+L 1094 4063 
+Q 1381 4031 1613 4025 
+z
+" transform="scale(0.015625)"/>
+        <path id="DengXian-91cf" d="M 6106 2797 
+L 6106 2425 
+Q 5825 2472 5588 2463 
+L 844 2463 
+Q 616 2472 325 2425 
+L 325 2797 
+Q 550 2753 844 2759 
+L 5588 2759 
+Q 5813 2753 6106 2797 
+z
+M 5203 4622 
+Q 5159 4397 5166 4178 
+L 5166 3463 
+Q 5159 3278 5203 3009 
+Q 4903 3053 4744 3047 
+L 1778 3047 
+Q 1575 3047 1478 3041 
+Q 1388 3034 1253 3009 
+Q 1300 3263 1294 3456 
+L 1294 4134 
+Q 1294 4353 1253 4622 
+Q 1453 4575 1747 4581 
+L 4756 4581 
+Q 4941 4575 5203 4622 
+z
+M 1638 4313 
+L 1638 3950 
+L 4819 3950 
+L 4819 4313 
+L 1638 4313 
+z
+M 1638 3681 
+L 1638 3316 
+L 4819 3316 
+L 4819 3681 
+L 1638 3681 
+z
+M 1006 -434 
+L 3097 -434 
+L 3097 -78 
+L 1478 -78 
+Q 1184 -72 953 -116 
+L 953 256 
+Q 1184 213 1478 219 
+L 3097 219 
+L 3097 588 
+L 1734 588 
+Q 1447 594 1203 550 
+Q 1247 844 1241 1081 
+L 1241 1691 
+Q 1247 1919 1203 2216 
+Q 1478 2169 1716 2175 
+L 4775 2175 
+Q 5013 2169 5325 2216 
+Q 5281 1934 5288 1697 
+L 5288 1081 
+Q 5281 813 5325 550 
+Q 4997 588 4775 588 
+L 3456 588 
+L 3456 219 
+L 4978 219 
+Q 5203 213 5503 256 
+L 5503 -116 
+Q 5216 -72 4978 -78 
+L 3456 -78 
+L 3456 -434 
+L 5453 -434 
+Q 5672 -441 5978 -397 
+L 5978 -769 
+Q 5663 -722 5453 -728 
+L 1006 -728 
+Q 781 -722 481 -775 
+L 481 -397 
+Q 722 -441 1006 -434 
+z
+M 3456 1253 
+L 3456 856 
+L 4941 856 
+L 4941 1253 
+L 3456 1253 
+z
+M 3456 1906 
+L 3456 1522 
+L 4941 1522 
+L 4941 1906 
+L 3456 1906 
+z
+M 1588 1253 
+L 1588 856 
+L 3097 856 
+L 3097 1253 
+L 1588 1253 
+z
+M 1588 1906 
+L 1588 1522 
+L 3097 1522 
+L 3097 1906 
+L 1588 1906 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DengXian-7a3b"/>
+       <use xlink:href="#DengXian-8c37" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#md0646ff9a9" x="395.3664" y="491.4936" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 小麦产量 -->
+      <g transform="translate(365.3664 509.209225) scale(0.15 -0.15)">
+       <defs>
+        <path id="DengXian-5c0f" d="M 281 403 
+Q 1050 1063 1409 3309 
+L 1966 3128 
+Q 2022 3109 2016 3091 
+Q 2016 3066 1953 3028 
+Q 1766 2919 1684 2541 
+Q 1356 1178 788 231 
+Q 538 341 281 403 
+z
+M 2463 -959 
+Q 2394 -622 2253 -428 
+Q 2559 -478 2738 -478 
+Q 2859 -478 2925 -453 
+Q 3091 -409 3084 -153 
+L 3084 4294 
+Q 3078 4519 3047 4891 
+L 3547 4819 
+Q 3609 4806 3615 4787 
+Q 3622 4769 3572 4722 
+Q 3456 4634 3456 4319 
+L 3456 -378 
+Q 3469 -672 3284 -769 
+Q 3116 -878 2463 -959 
+z
+M 4434 3022 
+L 4831 3219 
+Q 5538 1856 6022 525 
+L 5625 325 
+Q 5178 1784 4434 3022 
+z
+" transform="scale(0.015625)"/>
+        <path id="DengXian-9ea6" d="M 2444 2203 
+L 947 2203 
+Q 756 2203 422 2163 
+L 422 2559 
+Q 728 2528 947 2522 
+L 3072 2522 
+L 3072 3144 
+L 1697 3144 
+Q 1491 3138 1172 3103 
+L 1172 3500 
+Q 1466 3469 1697 3463 
+L 3072 3463 
+L 3072 4006 
+L 1253 4006 
+Q 1038 4000 728 3969 
+L 728 4366 
+Q 1031 4334 1253 4325 
+L 3072 4325 
+L 3072 4403 
+Q 3072 4569 3034 5000 
+L 3566 4916 
+Q 3628 4903 3634 4876 
+Q 3641 4850 3584 4800 
+Q 3419 4653 3419 4422 
+L 3419 4325 
+L 5081 4325 
+Q 5275 4334 5606 4366 
+L 5606 3969 
+Q 5269 4006 5081 4006 
+L 3419 4006 
+L 3419 3463 
+L 4709 3463 
+Q 4903 3463 5228 3500 
+L 5228 3103 
+Q 4878 3144 4709 3144 
+L 3419 3144 
+L 3419 2522 
+L 5538 2522 
+Q 5716 2528 6053 2559 
+L 6053 2163 
+Q 5734 2203 5538 2203 
+L 2663 2203 
+L 2906 2106 
+Q 2997 2075 2997 2047 
+Q 2997 2041 2994 2034 
+Q 2988 2003 2841 1919 
+Q 2766 1881 2731 1825 
+L 2619 1625 
+L 4453 1625 
+Q 4794 1625 5044 1663 
+Q 4581 722 3963 78 
+Q 4884 -422 6131 -422 
+Q 5900 -666 5850 -928 
+Q 4531 -666 3713 -172 
+Q 2900 -756 1497 -1056 
+Q 1403 -831 1172 -609 
+Q 2438 -616 3406 44 
+Q 2816 550 2438 1300 
+Q 1697 269 728 -341 
+Q 538 -159 331 -25 
+Q 1759 603 2444 2203 
+z
+M 2847 1306 
+Q 3128 728 3675 294 
+Q 4147 738 4434 1306 
+L 2847 1306 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DengXian-5c0f"/>
+       <use xlink:href="#DengXian-9ea6" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#md0646ff9a9" x="566.784" y="491.4936" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 玉米产量 -->
+      <g transform="translate(536.784 509.056881) scale(0.15 -0.15)">
+       <defs>
+        <path id="DengXian-7389" d="M 2963 -31 
+L 2963 2131 
+L 1703 2131 
+Q 1478 2131 1166 2094 
+L 1166 2491 
+Q 1459 2450 1703 2450 
+L 2963 2450 
+L 2963 4109 
+L 1216 4109 
+Q 1050 4109 697 4072 
+L 697 4469 
+Q 978 4428 1216 4428 
+L 5044 4428 
+Q 5269 4428 5569 4469 
+L 5569 4072 
+Q 5275 4109 5044 4109 
+L 3347 4109 
+L 3347 2450 
+L 4659 2450 
+Q 4878 2450 5197 2491 
+L 5197 2094 
+Q 4878 2131 4659 2131 
+L 3347 2131 
+L 3347 -31 
+L 5484 -31 
+Q 5709 -31 6009 6 
+L 6009 -378 
+Q 5709 -341 5484 -341 
+L 928 -341 
+Q 709 -341 384 -378 
+L 384 6 
+Q 744 -31 928 -31 
+L 2963 -31 
+z
+M 3794 1447 
+L 4044 1747 
+Q 4716 1241 5222 684 
+L 4928 397 
+Q 4469 984 3794 1447 
+z
+" transform="scale(0.015625)"/>
+        <path id="DengXian-7c73" d="M 306 97 
+Q 1588 634 2853 2381 
+L 1113 2381 
+Q 781 2381 588 2344 
+L 588 2741 
+Q 744 2700 1113 2700 
+L 3078 2700 
+L 3078 4391 
+Q 3078 4794 3041 5000 
+L 3553 4909 
+Q 3647 4897 3647 4864 
+Q 3647 4831 3566 4769 
+Q 3438 4672 3438 4378 
+L 3438 2700 
+L 5375 2700 
+Q 5728 2700 5900 2734 
+L 5900 2344 
+Q 5650 2381 5375 2381 
+L 3659 2381 
+Q 4691 703 6100 219 
+Q 5856 63 5703 -219 
+Q 4506 459 3438 2047 
+L 3438 -416 
+Q 3438 -794 3475 -991 
+L 3041 -991 
+Q 3078 -781 3078 -416 
+L 3078 2022 
+Q 2088 659 728 -256 
+Q 575 -72 306 97 
+z
+M 1044 4294 
+L 1356 4594 
+Q 2047 3994 2547 3456 
+L 2234 3128 
+Q 1734 3788 1044 4294 
+z
+M 3841 3213 
+Q 4481 3788 4922 4581 
+L 5306 4319 
+Q 5403 4256 5395 4220 
+Q 5388 4184 5275 4166 
+Q 5106 4128 4972 3928 
+Q 4738 3566 4213 2969 
+Q 4000 3144 3841 3213 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DengXian-7389"/>
+       <use xlink:href="#DengXian-7c73" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#md0646ff9a9" x="738.2016" y="491.4936" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 大豆产量 -->
+      <g transform="translate(708.2016 508.888131) scale(0.15 -0.15)">
+       <defs>
+        <path id="DengXian-5927" d="M 331 -634 
+Q 2572 488 2828 2725 
+L 1069 2725 
+Q 856 2719 550 2688 
+L 550 3084 
+Q 884 3053 1069 3047 
+L 2853 3047 
+L 2853 4275 
+Q 2853 4481 2816 4878 
+L 3297 4813 
+Q 3372 4800 3372 4781 
+Q 3378 4763 3322 4703 
+Q 3225 4569 3213 4225 
+L 3213 3047 
+L 5113 3047 
+Q 5306 3047 5697 3084 
+L 5697 2688 
+Q 5331 2719 5113 2725 
+L 3291 2725 
+Q 4013 391 6075 -488 
+Q 5844 -594 5613 -884 
+Q 3756 391 3103 2047 
+Q 2731 428 806 -941 
+Q 603 -788 331 -634 
+z
+" transform="scale(0.015625)"/>
+        <path id="DengXian-8c46" d="M 4084 1356 
+L 4616 1184 
+Q 4678 1166 4672 1119 
+Q 4659 1075 4575 1038 
+Q 4447 959 4372 819 
+Q 4038 166 3769 -275 
+L 5369 -275 
+Q 5600 -275 6003 -250 
+L 6003 -634 
+Q 5638 -594 5388 -594 
+L 1044 -594 
+Q 744 -588 403 -634 
+L 403 -250 
+Q 750 -275 1056 -275 
+L 3359 -275 
+Q 3891 500 4084 1356 
+z
+M 603 4128 
+L 603 4525 
+Q 872 4481 1159 4488 
+L 5106 4488 
+Q 5306 4488 5663 4525 
+L 5663 4128 
+Q 5306 4166 5106 4166 
+L 1141 4166 
+Q 903 4172 603 4128 
+z
+M 1319 3384 
+Q 1528 3359 1650 3353 
+Q 1778 3347 1978 3347 
+L 4391 3347 
+Q 4594 3341 4997 3384 
+Q 4972 3188 4966 3091 
+Q 4959 2981 4959 2822 
+L 4959 2169 
+Q 4959 1919 4997 1466 
+Q 4422 1503 4178 1503 
+L 2034 1503 
+Q 1741 1509 1325 1453 
+Q 1356 1856 1356 2119 
+L 1356 2734 
+Q 1356 3009 1319 3384 
+z
+M 1716 1825 
+L 4603 1825 
+L 4603 3028 
+L 1716 3028 
+L 1716 1825 
+z
+M 2100 1325 
+Q 2522 697 2853 122 
+L 2478 -134 
+Q 2156 628 1759 1100 
+L 2100 1325 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DengXian-5927"/>
+       <use xlink:href="#DengXian-8c46" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m5fd0b48c82" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5fd0b48c82" x="138.24" y="119.4219" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 稻谷产量 -->
+      <g transform="translate(127.761875 149.4219) rotate(-90) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-7a3b"/>
+       <use xlink:href="#DengXian-8c37" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m5fd0b48c82" x="138.24" y="225.7281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 小麦产量 -->
+      <g transform="translate(127.761875 255.7281) rotate(-90) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-5c0f"/>
+       <use xlink:href="#DengXian-9ea6" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m5fd0b48c82" x="138.24" y="332.0343" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 玉米产量 -->
+      <g transform="translate(127.761875 362.0343) rotate(-90) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-7389"/>
+       <use xlink:href="#DengXian-7c73" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m5fd0b48c82" x="138.24" y="438.3405" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 大豆产量 -->
+      <g transform="translate(127.761875 468.3405) rotate(-90) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-5927"/>
+       <use xlink:href="#DengXian-8c46" x="100"/>
+       <use xlink:href="#DengXian-4ea7" x="200"/>
+       <use xlink:href="#DengXian-91cf" x="300"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- 1.00 -->
+    <g style="fill: #ffffff" transform="translate(210.449972 122.714869) scale(0.15 -0.15)">
+     <defs>
+      <path id="DengXian-31" d="M 484 -250 
+L 484 84 
+L 1609 84 
+L 1609 3744 
+L 603 3075 
+L 603 3434 
+L 1653 4153 
+L 2000 4153 
+L 2000 84 
+L 2959 84 
+L 2959 -250 
+L 484 -250 
+z
+" transform="scale(0.015625)"/>
+      <path id="DengXian-2e" d="M 475 -250 
+L 475 291 
+L 928 291 
+L 928 -250 
+L 475 -250 
+z
+" transform="scale(0.015625)"/>
+      <path id="DengXian-30" d="M 3106 1953 
+Q 3106 850 2750 268 
+Q 2394 -313 1697 -313 
+Q 1006 -313 654 256 
+Q 303 825 303 1953 
+Q 303 3100 645 3659 
+Q 988 4219 1719 4219 
+Q 2422 4219 2764 3656 
+Q 3106 3094 3106 1953 
+z
+M 2706 1953 
+Q 2706 2963 2473 3425 
+Q 2241 3888 1716 3888 
+Q 1172 3888 936 3423 
+Q 700 2959 700 1953 
+Q 700 969 944 495 
+Q 1188 22 1703 22 
+Q 2216 22 2461 508 
+Q 2706 994 2706 1953 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DengXian-31"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-30" x="74.609375"/>
+     <use xlink:href="#DengXian-30" x="127.294922"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- -0.37 -->
+    <g style="fill: #ffffff" transform="translate(378.117572 122.714869) scale(0.15 -0.15)">
+     <defs>
+      <path id="DengXian-2d" d="M 694 1166 
+L 694 1522 
+L 2506 1522 
+L 2506 1166 
+L 694 1166 
+z
+" transform="scale(0.015625)"/>
+      <path id="DengXian-33" d="M 3019 963 
+Q 3019 356 2662 21 
+Q 2306 -313 1656 -313 
+Q 409 -313 266 828 
+L 669 872 
+Q 778 25 1656 25 
+Q 2122 25 2367 262 
+Q 2613 500 2613 963 
+Q 2613 1375 2320 1590 
+Q 2028 1806 1500 1806 
+L 1200 1806 
+L 1200 2172 
+L 1491 2172 
+Q 1784 2172 2011 2269 
+Q 2238 2366 2369 2555 
+Q 2500 2744 2500 3022 
+Q 2500 3434 2283 3659 
+Q 2066 3884 1644 3884 
+Q 1266 3884 1027 3689 
+Q 788 3494 747 3091 
+L 353 3125 
+Q 413 3647 755 3933 
+Q 1097 4219 1647 4219 
+Q 2244 4219 2573 3914 
+Q 2903 3609 2903 3056 
+Q 2903 2653 2672 2376 
+Q 2441 2100 2022 2009 
+L 2022 1997 
+Q 2491 1938 2755 1658 
+Q 3019 1378 3019 963 
+z
+" transform="scale(0.015625)"/>
+      <path id="DengXian-37" d="M 3031 3809 
+Q 2278 2631 1928 1634 
+Q 1578 638 1578 -250 
+L 1172 -250 
+Q 1172 625 1545 1651 
+Q 1919 2678 2638 3797 
+L 331 3797 
+L 331 4153 
+L 3031 4153 
+L 3031 3809 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-33" x="124.609375"/>
+     <use xlink:href="#DengXian-37" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- -0.45 -->
+    <g style="fill: #ffffff" transform="translate(549.535172 122.714869) scale(0.15 -0.15)">
+     <defs>
+      <path id="DengXian-34" d="M 2516 803 
+L 2516 -250 
+L 2125 -250 
+L 2125 803 
+L 141 803 
+L 141 1116 
+L 2088 4153 
+L 2516 4153 
+L 2516 1131 
+L 3113 1131 
+L 3113 803 
+L 2516 803 
+z
+M 2125 3628 
+L 538 1131 
+L 2125 1131 
+L 2125 3628 
+z
+" transform="scale(0.015625)"/>
+      <path id="DengXian-35" d="M 3047 1169 
+Q 3047 469 2676 78 
+Q 2306 -313 1641 -313 
+Q 575 -313 366 672 
+L 763 734 
+Q 859 350 1075 186 
+Q 1291 22 1669 22 
+Q 2134 22 2387 315 
+Q 2641 609 2641 1153 
+Q 2641 1619 2392 1895 
+Q 2144 2172 1713 2172 
+Q 1459 2172 1265 2095 
+Q 1072 2019 875 1844 
+L 503 1844 
+L 641 4153 
+L 2828 4153 
+L 2828 3816 
+L 997 3816 
+L 894 2222 
+Q 1113 2381 1323 2442 
+Q 1534 2503 1775 2503 
+Q 2359 2503 2703 2142 
+Q 3047 1781 3047 1169 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-34" x="124.609375"/>
+     <use xlink:href="#DengXian-35" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- 0.13 -->
+    <g style="fill: #262626" transform="translate(724.702772 122.714869) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-30"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-31" x="74.609375"/>
+     <use xlink:href="#DengXian-33" x="127.294922"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- -0.37 -->
+    <g style="fill: #ffffff" transform="translate(206.699972 229.021069) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-33" x="124.609375"/>
+     <use xlink:href="#DengXian-37" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- 1.00 -->
+    <g style="fill: #ffffff" transform="translate(381.867572 229.021069) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-31"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-30" x="74.609375"/>
+     <use xlink:href="#DengXian-30" x="127.294922"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- 0.96 -->
+    <g style="fill: #ffffff" transform="translate(553.285172 229.021069) scale(0.15 -0.15)">
+     <defs>
+      <path id="DengXian-39" d="M 3013 2047 
+Q 3013 894 2638 290 
+Q 2263 -313 1538 -313 
+Q 622 -313 384 500 
+L 759 581 
+Q 844 294 1048 155 
+Q 1253 16 1547 16 
+Q 2588 16 2622 1934 
+Q 2494 1666 2208 1494 
+Q 1922 1322 1553 1322 
+Q 991 1322 658 1717 
+Q 325 2113 325 2775 
+Q 325 3447 675 3833 
+Q 1025 4219 1647 4219 
+Q 2316 4219 2664 3678 
+Q 3013 3138 3013 2047 
+z
+M 2572 2634 
+Q 2572 3203 2314 3543 
+Q 2056 3884 1638 3884 
+Q 1203 3884 964 3590 
+Q 725 3297 725 2778 
+Q 725 2244 965 1945 
+Q 1206 1647 1631 1647 
+Q 2056 1647 2314 1923 
+Q 2572 2200 2572 2634 
+z
+" transform="scale(0.015625)"/>
+      <path id="DengXian-36" d="M 3047 1191 
+Q 3047 491 2697 89 
+Q 2347 -313 1747 -313 
+Q 1075 -313 720 234 
+Q 366 781 366 1850 
+Q 366 3031 739 3625 
+Q 1113 4219 1841 4219 
+Q 2284 4219 2553 4026 
+Q 2822 3834 2944 3428 
+L 2566 3344 
+Q 2400 3888 1816 3888 
+Q 1303 3888 1033 3402 
+Q 763 2916 756 1969 
+Q 913 2263 1183 2417 
+Q 1453 2572 1800 2572 
+Q 2372 2572 2709 2201 
+Q 3047 1831 3047 1191 
+z
+M 2647 1166 
+Q 2647 1675 2405 1964 
+Q 2163 2253 1716 2253 
+Q 1466 2253 1256 2137 
+Q 1047 2022 926 1806 
+Q 806 1591 806 1306 
+Q 806 747 1064 383 
+Q 1322 19 1738 19 
+Q 2166 19 2406 325 
+Q 2647 631 2647 1166 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DengXian-30"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-39" x="74.609375"/>
+     <use xlink:href="#DengXian-36" x="127.294922"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- -0.48 -->
+    <g style="fill: #ffffff" transform="translate(720.952772 229.021069) scale(0.15 -0.15)">
+     <defs>
+      <path id="DengXian-38" d="M 3050 972 
+Q 3050 359 2697 23 
+Q 2344 -313 1688 -313 
+Q 1038 -313 680 25 
+Q 322 363 322 966 
+Q 322 1391 553 1684 
+Q 784 1978 1159 2053 
+L 1159 2066 
+Q 819 2156 619 2440 
+Q 419 2725 419 3109 
+Q 419 3606 759 3912 
+Q 1100 4219 1675 4219 
+Q 2266 4219 2606 3911 
+Q 2947 3603 2947 3103 
+Q 2947 2706 2742 2428 
+Q 2538 2150 2200 2075 
+L 2200 2063 
+Q 2588 1988 2819 1702 
+Q 3050 1416 3050 972 
+z
+M 2541 3088 
+Q 2541 3494 2316 3700 
+Q 2091 3906 1675 3906 
+Q 1263 3906 1042 3695 
+Q 822 3484 822 3088 
+Q 822 2684 1048 2454 
+Q 1275 2225 1681 2225 
+Q 2100 2225 2320 2450 
+Q 2541 2675 2541 3088 
+z
+M 2644 1009 
+Q 2644 1428 2394 1667 
+Q 2144 1906 1678 1906 
+Q 1231 1906 978 1656 
+Q 725 1406 725 997 
+Q 725 516 973 259 
+Q 1222 3 1694 3 
+Q 2172 3 2408 258 
+Q 2644 513 2644 1009 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-34" x="124.609375"/>
+     <use xlink:href="#DengXian-38" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- -0.45 -->
+    <g style="fill: #ffffff" transform="translate(206.699972 335.327269) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-34" x="124.609375"/>
+     <use xlink:href="#DengXian-35" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- 0.96 -->
+    <g style="fill: #ffffff" transform="translate(381.867572 335.327269) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-30"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-39" x="74.609375"/>
+     <use xlink:href="#DengXian-36" x="127.294922"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- 1.00 -->
+    <g style="fill: #ffffff" transform="translate(553.285172 335.327269) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-31"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-30" x="74.609375"/>
+     <use xlink:href="#DengXian-30" x="127.294922"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- -0.59 -->
+    <g style="fill: #ffffff" transform="translate(720.952772 335.327269) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-35" x="124.609375"/>
+     <use xlink:href="#DengXian-39" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- 0.13 -->
+    <g style="fill: #262626" transform="translate(210.449972 441.633469) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-30"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-31" x="74.609375"/>
+     <use xlink:href="#DengXian-33" x="127.294922"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- -0.48 -->
+    <g style="fill: #ffffff" transform="translate(378.117572 441.633469) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-34" x="124.609375"/>
+     <use xlink:href="#DengXian-38" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <!-- -0.59 -->
+    <g style="fill: #ffffff" transform="translate(549.535172 441.633469) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-2d"/>
+     <use xlink:href="#DengXian-30" x="50"/>
+     <use xlink:href="#DengXian-2e" x="102.685547"/>
+     <use xlink:href="#DengXian-35" x="124.609375"/>
+     <use xlink:href="#DengXian-39" x="177.294922"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <!-- 1.00 -->
+    <g style="fill: #ffffff" transform="translate(724.702772 441.633469) scale(0.15 -0.15)">
+     <use xlink:href="#DengXian-31"/>
+     <use xlink:href="#DengXian-2e" x="52.685547"/>
+     <use xlink:href="#DengXian-30" x="74.609375"/>
+     <use xlink:href="#DengXian-30" x="127.294922"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 866.7648 491.4936 
+L 888.02604 491.4936 
+L 888.02604 66.2688 
+L 866.7648 66.2688 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAB0AAAJPCAYAAACASt/aAAAC4klEQVR4nO2cgW0cMQwETwd1lRZctPtK/pUqRgI0Mw0QFHeXvDfg8efndz2beXcXPFZ0jnd/3VOdju1FD3U6JDNNSCiicHgtMy2RUAoHlGZ6X9H5Fg4gdXpf0fYpyqkTVDLTU5axCMljGU2nHWYoHiGZOrUEfr+YoZh+6MgyIKLsFYVDlgExWcYiJM9Me14UT/a2T1EKB5RT+3R/0WZ6X1HP83aCopgso8neDjOSYvC+ovPAHxWzDIsnBtunKJ7DzPN9WvaizAN/nW6mFxYVHWaaC990OVg67cJH8QipExRF9C2TZUhMlrE8r+qrbX9RlWUsW0aTvR7LeDpty6B4hOSJwYSEIuo0y5CIhDTG9v9FmmUuLKqyzP6ipyxjCQfNTHteFM+WmeORhEOWQTFZxrJPswzKfC3Z65lpiYRi2jKFA0jhgNI+RckyKCLLeLaM5nJISCiFA4rJMhohnajaTFEKB5SEhNJM7ysqEpLphw5Jp1kGpU5RTJaxJJJHSHWKYgoHy/PO8Xy3Fy3w7ys6x5I8rykcliQcEhKKR0iemSYkFI+QTJeDRb1ZBsUjJE849PmPMh+LkDzh0JZB8QipcEAxhYNGSI9FSFkGRbRPTZaRzDQhoXSYoagsk5A4ikGU9inKfL4WIXliUBMOJRKKR0ieTrMMSvsURWQZTSJ5hKQKB0mnWQZFZRnJTEsklPl8JULyzLTsRfFkb5ZBEWXvsghJNNPCgWSu9ilIN9J9RUVCEoWDZZ92mKF4hNRhhjKXR0iaLbM0l4NmpoUDimfLeGbatwyK6ATVfFaUSCiec8Uz07YMSt8yKIXDfUU9z2uKQctMExKKR0iev59mGRSRZTQzTUgoqk4llvHM9Mzzfj+S580yKCLLaJ5X1akkHBISimqfSjotkVA8QiocUAoHlEOdaiyjCYcSCcUjpLk+khjMMigqy0g6PSSkf5LnneuvpdNmSlI4oJwSkuQw88y0REL5D+WzWohv+s4xAAAAAElFTkSuQmCC" id="imagef3c44c0b33" transform="scale(1 -1) translate(0 -425.52)" x="866.88" y="-66.24" width="20.88" height="425.52"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <defs>
+       <path id="mc075931870" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="439.770658" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- -0.4 -->
+      <g transform="translate(895.02604 444.802689) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-2d"/>
+       <use xlink:href="#DengXian-30" x="50"/>
+       <use xlink:href="#DengXian-2e" x="102.685547"/>
+       <use xlink:href="#DengXian-34" x="124.609375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="386.41325" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- -0.2 -->
+      <g transform="translate(895.02604 391.445281) scale(0.15 -0.15)">
+       <defs>
+        <path id="DengXian-32" d="M 347 -250 
+L 347 31 
+Q 491 394 764 751 
+Q 1038 1109 1566 1569 
+Q 2109 2038 2326 2359 
+Q 2544 2681 2544 3034 
+Q 2544 3441 2316 3661 
+Q 2088 3881 1681 3881 
+Q 1313 3881 1077 3664 
+Q 841 3447 800 3069 
+L 400 3119 
+Q 447 3613 795 3916 
+Q 1144 4219 1684 4219 
+Q 2281 4219 2615 3912 
+Q 2950 3606 2950 3059 
+Q 2950 2778 2850 2531 
+Q 2750 2284 2550 2039 
+Q 2350 1794 1869 1366 
+Q 1025 616 803 103 
+L 3016 103 
+L 3016 -250 
+L 347 -250 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DengXian-2d"/>
+       <use xlink:href="#DengXian-30" x="50"/>
+       <use xlink:href="#DengXian-2e" x="102.685547"/>
+       <use xlink:href="#DengXian-32" x="124.609375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="333.055841" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- 0.0 -->
+      <g transform="translate(895.02604 338.087873) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-30"/>
+       <use xlink:href="#DengXian-2e" x="52.685547"/>
+       <use xlink:href="#DengXian-30" x="74.609375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="279.698433" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- 0.2 -->
+      <g transform="translate(895.02604 284.730464) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-30"/>
+       <use xlink:href="#DengXian-2e" x="52.685547"/>
+       <use xlink:href="#DengXian-32" x="74.609375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="226.341025" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- 0.4 -->
+      <g transform="translate(895.02604 231.373056) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-30"/>
+       <use xlink:href="#DengXian-2e" x="52.685547"/>
+       <use xlink:href="#DengXian-34" x="74.609375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="172.983617" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- 0.6 -->
+      <g transform="translate(895.02604 178.015648) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-30"/>
+       <use xlink:href="#DengXian-2e" x="52.685547"/>
+       <use xlink:href="#DengXian-36" x="74.609375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="119.626208" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- 0.8 -->
+      <g transform="translate(895.02604 124.65824) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-30"/>
+       <use xlink:href="#DengXian-2e" x="52.685547"/>
+       <use xlink:href="#DengXian-38" x="74.609375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mc075931870" x="888.02604" y="66.2688" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- 1.0 -->
+      <g transform="translate(895.02604 71.300831) scale(0.15 -0.15)">
+       <use xlink:href="#DengXian-31"/>
+       <use xlink:href="#DengXian-2e" x="52.685547"/>
+       <use xlink:href="#DengXian-30" x="74.609375"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_4">
+    <path d="M 866.7648 491.4936 
+L 877.39542 491.4936 
+L 888.02604 491.4936 
+L 888.02604 66.2688 
+L 877.39542 66.2688 
+L 866.7648 66.2688 
+L 866.7648 491.4936 
+z
+" style="fill: none"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p53bd3c9b3b">
+   <rect x="138.24" y="66.2688" width="685.6704" height="425.2248"/>
+  </clipPath>
+ </defs>
+</svg>
