@@ -2,11 +2,10 @@ import numpy as np
 import pandas as pd
 import networkx as nx
 from itertools import islice
-import matplotlib.pyplot as plt
 
 
-def k_shortest_paths_length(G: nx.Graph | nx.DiGraph, source: str, target: str, k: int, weight=None):
-    paths = list(islice(nx.shortest_simple_paths(G, source, target, weight=weight), k))
+def k_shortest_paths_length(G: nx.Graph | nx.DiGraph, source: str, target: str, k: int):
+    paths = list(islice(nx.shortest_simple_paths(G, source, target), k))
     for path in paths:
         distance = 0
         for dist in range(len(path) - 1):
@@ -44,7 +43,7 @@ G = nx.DiGraph(adjacency_matrix)
 result = {}
 for time in time_range:
     price = {}
-    df_temp = df1[df1.index == time]
+    df_temp: pd.DataFrame = df1[df1.index == time]
     for row in df_temp.itertuples(index=False):
         cost = []
         city1, city2, cargo = row

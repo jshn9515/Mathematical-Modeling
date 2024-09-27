@@ -11,16 +11,16 @@ plt.rcParams['font.size'] = 12
 
 df1: pd.DataFrame = pd.read_pickle('附件1-原始训练数据.pkl')
 df2: pd.DataFrame = pd.read_pickle('附件2-原始测试数据.pkl')
-ticks = (8, 9)
+ticks = ['8', '9']
 
 idx = np.array((df1.y == ticks[0]) | (df1.y == ticks[1]))
-df1_select = df1.iloc[idx, :]
+df1_select: pd.DataFrame = df1.iloc[idx, :]
 train = df1_select.iloc[:, :-1].values
 label = df1_select.y.values
 Mdl = RandomForestClassifier(n_estimators=50, n_jobs=16, oob_score=True, max_features=None, verbose=False)
 Mdl.fit(train, label)
 idx = np.array((df2.y == ticks[0]) | (df2.y == ticks[1]))
-df2_select = df2.iloc[idx, :]
+df2_select: pd.DataFrame = df2.iloc[idx, :]
 test = df2_select.iloc[:, :-1].values
 label = df2_select.y.values
 predict = Mdl.predict(test)

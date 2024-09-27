@@ -12,10 +12,10 @@ np.set_printoptions(4)
 plt.rcParams['font.size'] = 14
 df = pd.read_excel('secondary_data_no_miss.xlsx')
 label = df.columns[1:]
-target = df['class'].unique()
+target = df['class'].unique().tolist()
 encoder = LabelEncoder()
 decoder = LabelEncoder()
-decoder.fit(df['class'].values)
+decoder.fit(df['class'])
 data = df.values
 for col in range(data.shape[1]):
     data[:, col] = encoder.fit_transform(data[:, col])

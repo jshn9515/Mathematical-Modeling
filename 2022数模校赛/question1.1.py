@@ -8,5 +8,5 @@ data = df.values
 for col in range(data.shape[1]):
     data[:, col] = encoder.fit_transform(data[:, col])
 Mdl = PCA()
-pca = Mdl.fit_transform(df.values)
+pca = Mdl.fit_transform(df)
 print(pca)

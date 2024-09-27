@@ -9,14 +9,14 @@ plt.rcParams['font.sans-serif'] = ['DengXian']
 plt.rcParams['font.size'] = 15
 df1 = pd.read_excel('问题2-铅钡高钾聚类数据.xlsx', sheet_name=f'铅钡-{title}-聚类')
 df2 = pd.read_excel('问题2-铅钡高钾聚类数据.xlsx', sheet_name=f'高钾-{title}-聚类')
-df1 = df1.fillna(0)
-df2 = df2.fillna(0)
+df1.fillna(0, inplace=True)
+df2.fillna(0, inplace=True)
 label1 = df1['文物编号'].values
 label2 = df2['文物编号'].values
 data1 = df1.iloc[:, 3:17]
 data2 = df2.iloc[:, 3:17]
-Z1: np.ndarray = cluster.linkage(data1, method='average')
-Z2: np.ndarray = cluster.linkage(data2, method='average')
+Z1 = cluster.linkage(data1, method='average')
+Z2 = cluster.linkage(data2, method='average')
 T1 = cluster.fcluster(Z1, 3, criterion='maxclust')
 T2 = cluster.fcluster(Z2, 3, criterion='maxclust')
 print('The cluster result for the first one is: ', T1)

@@ -12,7 +12,7 @@ fig, ax = plt.subplots(2, 2)
 ax = ax.flatten()
 route = ['VN', 'VQ', 'JI', 'OG']
 for i in range(len(route)):
-    data = df.loc[df['快递运输路线'] == route[i], '非固定需求常数'].values.reshape(-1, 1)
+    data = df.loc[df['快递运输路线'] == route[i], '非固定需求常数'].to_numpy().reshape(-1, 1)
     data_plot = np.linspace(np.min(data), np.max(data), 1000).reshape(-1, 1)
     Mdl.fit(data)
     log_density = Mdl.score_samples(data_plot)

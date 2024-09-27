@@ -5,15 +5,16 @@ import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 import cartopy.feature as cfeature
 import cartopy.mpl.ticker as cticker
+from cartopy.mpl.geoaxes import GeoAxes
 
 plt.rcParams['font.sans-serif'] = ['DengXian']
 plt.rcParams['font.size'] = 12
 plt.rcParams['axes.unicode_minus'] = False
 df = pd.read_excel('附件2-站点编号.xlsx')
 station = df['站点名称'].values
-lon = df['经度(度)'].values
-lat = df['纬度(度)'].values
-altitude = df['高度(m)'].values
+lon = df['经度(度)'].to_numpy()
+lat = df['纬度(度)'].to_numpy()
+altitude = df['高度(m)'].to_numpy()
 num = 100
 x = np.linspace(np.min(lon), np.max(lon), num=num)
 y = np.linspace(np.min(lat), np.max(lat), num=num)

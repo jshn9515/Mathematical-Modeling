@@ -16,13 +16,14 @@ for city1 in receiving_city:
         df_result['收货城市 (Receiving city)'] = city1
         df_result['发货城市 (Delivering city)'] = city2
         df_result.fillna(0, inplace=True)
-        result = pd.concat((result, df_result), axis=0)
+        result = pd.concat([result, df_result], axis=0)
 result.sort_index(inplace=True)
 result['是否能正常发货'] = result['是否能正常发货'].astype(int)
 result['快递运输路线'] = result['发货城市 (Delivering city)'] + result['收货城市 (Receiving city)']
 result.drop(columns=['发货城市 (Delivering city)', '收货城市 (Receiving city)'], inplace=True)
 result = result[['快递运输路线', '是否能正常发货']]
-data = result['是否能正常发货'].values.reshape((time.size, result['快递运输路线'].unique().size))
+data = result['是否能正常发货'].to_numpy()
+data = data.reshape((time.size, result['快递运输路线'].unique().size))
 result_solve = pd.DataFrame(data, index=time, columns=result['快递运输路线'].unique())
 result_solve.sort_index(axis=1, inplace=True)
 # result_solve.to_excel('是否能正常发货统计表.xlsx', index_label='日期(年/月/日) (Date Y/M/D)')

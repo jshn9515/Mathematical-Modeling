@@ -16,7 +16,7 @@ for i in range(13, 17):
     Mdl = sm.GLM(y, X)
     Mdl = Mdl.fit()
     for inc in noise:
-        reduce = df.iloc[-1, :13].values
+        reduce = df.iloc[-1, :13].to_numpy()
         reduce = np.insert(reduce, 0, 1.0)
         reduce[-1] += inc
         predict = Mdl.predict(reduce)

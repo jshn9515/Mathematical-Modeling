@@ -4,12 +4,12 @@ import networkx as nx
 from itertools import islice
 
 
-def k_shortest_paths(G: nx.Graph | nx.DiGraph, source: str, target: str, k: int, weight=None):
-    return list(islice(nx.shortest_simple_paths(G, source, target, weight=weight), k))
+def k_shortest_paths(G: nx.Graph | nx.DiGraph, source: str, target: str, k: int):
+    return list(islice(nx.shortest_simple_paths(G, source, target), k))
 
 
-def k_shortest_paths_length(G: nx.Graph | nx.DiGraph, source: str, target: str, k: int, weight=None):
-    paths = k_shortest_paths(G, source, target, k, weight=weight)
+def k_shortest_paths_length(G: nx.Graph | nx.DiGraph, source: str, target: str, k: int):
+    paths = k_shortest_paths(G, source, target, k)
     for path in paths:
         distance = 0
         for dist in range(len(path) - 1):

@@ -11,7 +11,7 @@ def calculate(df: pd.DataFrame):
 
 
 np.set_printoptions(4)
-df = pd.read_excel('问题1-铅钡高钾组合数据.xlsx', sheet_name='铅钡-风化', usecols='C:J')  # noqa
+df = pd.read_excel('问题1-铅钡高钾组合数据.xlsx', sheet_name='铅钡-风化', usecols='C:J')
 result = calculate(df)
 print('The statistic result is: \n', result.round(2))
 df = (df - df.mean()) / df.std()

@@ -23,11 +23,10 @@ df2_mean = df2.mean()
 df2_pct = df2.pct_change()
 df2_pct.replace(np.inf, np.nan, inplace=True)
 df2_pct_day = df2_pct.mean()
-df2_pct.index = df2_pct.index.strftime('%Y-%m')
+df2_pct.index = df2_pct.index.strftime('%Y-%m')  # type: ignore
 df2_pct_month = df2_pct.groupby(df2_pct.index).mean()
 df2_pct_month.fillna(0, inplace=True)
 df2_pct_month = df2_pct_month.mean()
 result = pd.concat([result, df2_mean, df2_pct_day, df2_pct_month], axis=1)
 result.columns = ['上游数', '下游数', '上下游路径数', '上下游收发量日平均值', '上下游收发量日变化率平均值', '上下游收发量月变化率平均值']
-result = result.round(2)
-# result.to_excel('城市快递总运输量描述统计.xlsx', index_label='城市')
+# result.to_excel('城市快递总运输量描述统计.xlsx', index_label='城市', float_format='%.2f')
