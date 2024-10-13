@@ -4,7 +4,6 @@ import gurobipy as gp
 
 df1 = pd.read_excel('附件1.xlsx', sheet_name='乡村的现有耕地', index_col=0, usecols='A:C')
 df1 = pd.concat([df1, df1.loc['D1':'F4']], axis=0)
-
 df2 = pd.read_excel('问题1-农作物汇总表.xlsx', sheet_name='销售单价', index_col=[0, 1])
 df2.fillna(0, inplace=True)
 df3 = pd.read_excel('问题1-农作物汇总表.xlsx', sheet_name='种植成本', index_col=[0, 1])
